@@ -1,7 +1,7 @@
 {
   "name": "react-component-instance",
   "version": "0.0.0",
-  "main": "./index.mjs",
+  "main": "./src/index.mjs",
   "type": "module",
   "types": "./index.d.mts",
   "author": {
